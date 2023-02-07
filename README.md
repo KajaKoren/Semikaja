@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semikaja&layout=compact)](https://github.com/SemiKaja/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajaKoren&layout=compact)](https://github.com/KajaKoren/github-readme-stats)
 
-[![Kaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemiKaja)](https://github.com/SemiKaja/github-readme-stats)
+[![Kaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajaKoren)](https://github.com/KajaKoren/github-readme-stats)
 <!--
-**Semikaja/Semikaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KajaKoren/KajaKoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
